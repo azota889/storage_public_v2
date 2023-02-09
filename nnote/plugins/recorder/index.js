@@ -39,8 +39,8 @@ window.addEventListener("DOMContentLoaded",()=>{
 
     var options = {
     controls: true,
-    width: (recordType=="screen")? 800:320,
-    height: (recordType=="screen")? 450:240,
+    width: (recordType=="screen")? 320:320,
+    height: (recordType=="screen")? 206:240,
     fluid: false,
     bigPlayButton: false,
     controlBar: {
