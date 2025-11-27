@@ -19,21 +19,9 @@
         {
             "json":"nQuickMark.json","ver":"0.1","id":"nQuickMark",
             "description":"QuickMark click ,double click on page  "
-        },
-        {
-            "json":"nPMath.json","ver":"0.1","id":"nPMath",
-            "description":"Math tool wiris mathtype , geobra draw , ....  "
-        },
-        {
-            "json":"nAnimejs.json","ver":"0.1","id":"nAnimejs",
-            "description":"Animation node with animejs  "
-        },
-        {
-            "json":"nRecorder.json","ver":"0.1","id":"nRecorder",
-            "description":"Recorder module  "
-        }
+        }        
     ],
     "trustDomain":[
-        "localhost","azota.vn","www.azota.vn","youtube.com","www.youtube.com","s3-origin.nextidc.net","azota889.github.io","wewiin.nyc3.cdn.digitaloceanspaces.com","azotacdn.studybymusic.com","png.pngtree.com","nextcdn.studybymusic.com","giphy.com","lottiefiles.com","azota889.github.io","storage.googleapis.com","239444185.e.cdneverest.net","239114911.e.cdneverest.net","azota.io","tqb.azota.vn","textandtool.com","dev-azota-storage.s3.ap-southeast-1.amazonaws.com"
+       "azota.vn","www.azota.vn","youtube.com","www.youtube.com","s3-origin.nextidc.net","azota889.github.io","wewiin.nyc3.cdn.digitaloceanspaces.com","azotacdn.studybymusic.com","png.pngtree.com","nextcdn.studybymusic.com","giphy.com","lottiefiles.com","azota889.github.io","storage.googleapis.com","239444185.e.cdneverest.net","239114911.e.cdneverest.net","azota.io","tqb.azota.vn","textandtool.com","dev-azota-storage.s3.ap-southeast-1.amazonaws.com"
     ]
 }
