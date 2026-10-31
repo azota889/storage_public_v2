@@ -2,7 +2,7 @@
 {
     "id":"nNode",
     "js":"nNode.js",
-    "ver":"0.2",
+    "ver":"0.3",
     "dependencies":[],
     "registerNodes":["UIPage","UIImage","UIGroup","UIText","UITextImage","UIShape","UILayer","UIAudio","UIVideo","UIWebview","UIYoutube","UIPdfLoader","UIOfficeLoader"],
     "registerCmds":[],
