@@ -4,7 +4,7 @@
     "js":"nNode.js",
     "ver":"0.2",
     "dependencies":[],
-    "registerNodes":["UIPage","UIImage","UIGroup","UIText","UITextImage","UIShape","UILayer","UIAudio","UIVideo","UIWebview","UIYoutube","UILottieAnimation","UIPdfLoader","UIOfficeLoader"],
+    "registerNodes":["UIPage","UIImage","UIGroup","UIText","UITextImage","UIShape","UILayer","UIAudio","UIVideo","UIWebview","UIYoutube","UIPdfLoader","UIOfficeLoader"],
     "registerCmds":[],
     "registerHandlers":[],
     "config":{
